@@ -1,8 +1,8 @@
 ## Objective
---The objective of this task is to demonstrate SQL skills by performing data analysis on an eCommerce dataset. This includes writing optimized SQL queries using joins, aggregate functions, views, and indexes. The goal is to derive meaningful insights such as sales trends, customer revenue, and country-wise performance.
+-- The objective of this task is to demonstrate SQL skills by performing data analysis on an eCommerce dataset. This includes writing optimized SQL queries using joins, aggregate functions, views, and indexes. ----- The goal is to derive meaningful insights such as sales trends, customer revenue, and country-wise performance.
 ## Code used
 --create schema ecommerce;
-CREATE TABLE ecommerce_orders (
+-- CREATE TABLE ecommerce_orders (
     InvoiceNo VARCHAR(20),
     StockCode VARCHAR(20),
     Description TEXT,
@@ -11,9 +11,9 @@ CREATE TABLE ecommerce_orders (
     UnitPrice DECIMAL(10,2),
     CustomerID VARCHAR(20),
     Country VARCHAR(50)
-);
+-- );
 
-INSERT INTO ecommerce_orders 
+ INSERT INTO ecommerce_orders 
 (InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country)
 VALUES 
 ('536365', '85123A', 'WHITE HANGING HEART T-LIGHT HOLDER', 6, '2010-12-01 08:26:00', 2.55, '17850', 'United Kingdom'),
