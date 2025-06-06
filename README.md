@@ -1,5 +1,5 @@
 ## Objective
--- The objective of this task is to demonstrate SQL skills by performing data analysis on an eCommerce dataset. This includes writing optimized SQL queries using joins, aggregate functions, views, and indexes. ----- The goal is to derive meaningful insights such as sales trends, customer revenue, and country-wise performance.
+   The objective of this task is to demonstrate SQL skills by performing data analysis on an eCommerce dataset. This includes writing optimized SQL queries using joins, aggregate functions, views, and indexes. ----- The goal is to derive meaningful insights such as sales trends, customer revenue, and country-wise performance.
 ## Code used
 --create schema ecommerce;
 -- CREATE TABLE ecommerce_orders (
