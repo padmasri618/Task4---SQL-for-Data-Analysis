@@ -87,12 +87,13 @@ ORDER BY TotalRevenue DESC;
 
 ---
 ## Output Screenshot
-![Screenshot 2025-06-06 160115](https://github.com/user-attachments/assets/47ca5f3f-467d-4d22-a979-8233717708c9)
-![Screenshot 2025-06-06 155842](https://github.com/user-attachments/assets/bd1818d5-4400-466d-b7cd-e2654167b95c)
-![Screenshot 2025-06-06 155825](https://github.com/user-attachments/assets/6101a240-6f10-4da7-bdd7-63382766e84d)
-![Screenshot 2025-06-06 155715](https://github.com/user-attachments/assets/20dbcb1c-c45b-44a9-be23-8e67e2fe09c9)
-![Screenshot 2025-06-06 155701](https://github.com/user-attachments/assets/169c9ac5-9618-46c7-b96c-ba56bc088548)
-![Screenshot 2025-06-06 155546](https://github.com/user-attachments/assets/2c33c203-0f80-49e2-b213-08bef0c55f73)
+
+![Screenshot 2025-06-06 155546](https://github.com/user-attachments/assets/0917c6b3-035c-4c04-98f1-eecf8412d91b)
+![Screenshot 2025-06-06 155701](https://github.com/user-attachments/assets/8d9dc54b-5794-4fcc-bb68-d0b319abc3a1)
+![Screenshot 2025-06-06 155715](https://github.com/user-attachments/assets/dd1e2581-c525-463f-af01-e5887dd9837a)
+![Screenshot 2025-06-06 155842](https://github.com/user-attachments/assets/ce872d1f-0b43-4413-b3ff-3492e485064e)
+![Screenshot 2025-06-06 160115](https://github.com/user-attachments/assets/7ddb1c57-0522-4060-8535-98d58b1bc77f)
+
 --
 ## Dataset Explanation
 -- The dataset used is an online eCommerce transactional dataset. It contains the following columns:
